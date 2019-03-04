@@ -1,0 +1,1 @@
+It can be imported into Andorid studio by click file and import.
